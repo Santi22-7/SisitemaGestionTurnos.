@@ -16,6 +16,7 @@ software en entidades llamadas (objetos), que contienen tanto datos como comport
 <p>5: registrar a los pacientes como a los profesionales de la salud</p>
 
 ## Casos de uso 
+
 ### 1 poder pedir un turno 
  **Actor(es):** Recepcionista, paciente  
 - **Descripción:** El recepcionista ingresa los datos del paciente  al sistema para pedir un turno .  
@@ -52,29 +53,19 @@ software en entidades llamadas (objetos), que contienen tanto datos como comport
   - El paciente  debe haber sacado  un turno  en el sistema.  
 - **Postcondiciones:**  
   - Al medico  le queda registrado el la confirmación del turno.
+  
     ### 4 agenda de turnos se registra la fecha y hora del turno y estado del turno.
  **Actor(es):**  Recepcionista y Medico
 - **Descripción:** El  recepcionita  pueden consultar los turnos del dia o de otros dias.   .  
 - **Flujo principal:**  
   1. El recepcionista consulta los turnos del dia y le dice al medico cuales son los turnos del dia y hora .  
   2. El recepcionista borra los turnos cancelados  .  
-  3. El recepcionista confirma los cambios .
-     
+  3. El recepcionista confirma los cambios . 
 - **Precondiciones:**  
   - El recepcionista debe haber agendado el turno y el paciente confirmado para ese dia.  
 - **Postcondiciones:**  
   - El medico y el recepcionista saben los turnos del dia
-    ### 3 Aviso de confirmación de turno al medico
- **Actor(es):**  paciente , medico
-- **Descripción:** El  paciente confirma al turno y el medico lo recibe.   .  
-- **Flujo principal:**  
-  1. Al paciente le llega un gmail y dentro si confima o no el turno .  
-  2. La confirmación del turno se guarda  .  
-  3. Y al medico le llega la notificación de la confirmación .  
-- **Precondiciones:**  
-  - El paciente  debe haber sacado  un turno  en el sistema.  
-- **Postcondiciones:**  
-  - Al medico  le queda registrado el la confirmación del turno.
+
     ### 5  registrar a los pacientes como a los profesionales de la salud.
  **Actor(es):**  Recepcionista , Medico o paciente .
 - **Descripción:** El  recepcionita  registra al paciente o al medico nuevo en la base de datos   .  
