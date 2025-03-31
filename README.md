@@ -3,5 +3,5 @@
 **Materia:** Diseño Orientado a Objetos  
 **Carrera:** Tecnicatura Universitaria en Programación de Sistemas  
 **Año:** 2025  
-##Anexo. 
+## Anexo  
 [Anexo](anexo.md)
