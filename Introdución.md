@@ -79,3 +79,5 @@ software en entidades llamadas (objetos), que contienen tanto datos como comport
 - **Postcondiciones:**  
   - El medico o el paciente quedan registrados
 ## Boceto inicial del diseño de clases
+
+[Boceto](Boceto.md)
