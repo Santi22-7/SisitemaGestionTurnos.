@@ -1,6 +1,7 @@
 # SistemaGestionTurnos.
-<p> Apellido y Nombre : Samitier Santiago Ariel </p>
-<p> Materia : Diseño Orientado a Objetos </p>
-<p> Carrera : Tecnicatura Universitaria en Programación de Sistemas </p>
-<p>Año : 2025 </p>
-a [Anexo](anexo.md)
+**Apellido y Nombre:** Samitier Santiago Ariel  
+**Materia:** Diseño Orientado a Objetos  
+**Carrera:** Tecnicatura Universitaria en Programación de Sistemas  
+**Año:** 2025  
+##Anexo. 
+[Anexo](anexo.md)
