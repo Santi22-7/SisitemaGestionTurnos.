@@ -1,8 +1,8 @@
 # Anexos-introdución al Diseño Orientado a Objetos
 
 ## Decripción al diseño orientado a objetos
-<p>Un paradigma de programación que se basa en la abstracción de entidades del mundo real , que organiza el
-software en entidades llamadas (objetos), que contienen tanto datos como comportamientos</p>
+<p>Un paradigma para diseño orientado a objetos es un enfoque que intenta simular el mundo real donde  organiza el
+software en entidades llamadas objetos que tiene a su vez datos y comportamientos. Y este enfoque tiene sustento en 4 principios: encasulación , abstracción, herencia y polimorfismo. Que le permiten una mayor flexibilidad y adaptabilidad a medida que los sistemas crecen en tamaño y complejidad. </p>
 
 
 ## Los cuatro fudamentos de diseño orientado a objetos
