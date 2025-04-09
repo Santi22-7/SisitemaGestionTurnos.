@@ -6,7 +6,7 @@ software en entidades llamadas objetos que tiene a su vez datos y comportamiento
 
 
 ## Los cuatro fudamentos de diseño orientado a objetos
-![Captura de pantalla 2025-03-31 124246](https://github.com/user-attachments/assets/df2aef0d-7f49-45a5-9bab-18097bf8171e)
+![Captura de pantalla 2025-04-09 165208](https://github.com/user-attachments/assets/b639a269-7bf1-46a3-b99c-7f646ff97ddb)
 
 ## Requisitos iniciales del sistema
 <p>1:Poder pedir un turno</p>
